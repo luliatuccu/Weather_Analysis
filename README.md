@@ -22,7 +22,3 @@ This project focuses on analyzing a weather dataset to uncover patterns and deri
 - Develop practical data preprocessing and feature engineering skills.
 - Explore and visualize key weather metrics to derive actionable insights.
 - Apply Python libraries and regex techniques effectively.
-
----
-
-This project highlights a combination of data science techniques and Python programming to explore real-world weather data.
