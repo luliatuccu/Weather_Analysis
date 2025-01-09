@@ -9,16 +9,16 @@ This project focuses on analyzing a weather dataset to uncover patterns and deri
 - Visualizations: Developed scatterplots, boxplots, and correlation heatmaps to reveal trends and relationships.
 - Regex Applications: Extracted and cleaned wind direction data using regular expressions.
 
-Tools & Libraries
+### Tools & Libraries
 - Python Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Regex
 - Visualization Techniques: Scatterplots, boxplots, heatmaps, and distribution plots.
 
-Deliverables
+### Deliverables
 - Cleaned and enhanced dataset.
 - Insightful visualizations to represent weather patterns.
 - Features engineered to support advanced data analysis.
 
-Project Objectives
+### Project Objectives
 - Develop practical data preprocessing and feature engineering skills.
 - Explore and visualize key weather metrics to derive actionable insights.
 - Apply Python libraries and regex techniques effectively.
